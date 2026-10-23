@@ -55,7 +55,7 @@ Make sure the following are installed:
 Clone the repository and open its directory:
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/meilynahutajulu/qa-automation-portfolio.git
 cd qa-automation-portfolio
 ```
 
